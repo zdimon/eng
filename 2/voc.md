@@ -1,18 +1,18 @@
 ##Vocabilary
 
-    An old man enters a confessional and proudly exclaims, "Father, I have to tell you what happened to me last night. I'm 90 years old, and I made love to two 18-year-old women for eight hours!"
- 
-    The stern priest replies, "That is a sin. I will have to give you a penance."
+An old man enters a confessional and proudly exclaims, "Father, I have to tell you what happened to me last night. I'm 90 years old, and I made love to two 18-year-old women for eight hours!"
 
-    "Father, you can't give me a penance."
+The stern priest replies, "That is a sin. I will have to give you a penance."
 
-    "Why not?"
+"Father, you can't give me a penance."
 
-    "Because I'm Jewish."
+"Why not?"
 
-    The perplexed Father asks, "Then why are you telling me?"
+"Because I'm Jewish."
 
-    "I'm telling everyone!"
+The perplexed Father asks, "Then why are you telling me?"
+
+"I'm telling everyone!"
 
 ###*confessional* [kənˈfeʃənl] - a private place in a church where a priest listens to people making confessions
 
