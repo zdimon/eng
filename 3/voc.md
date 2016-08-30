@@ -15,3 +15,13 @@
 ####But invariably, the other voice would bring him back to reality.
 
 ####"But Dave, you're a vet." 
+
+guilty
+
+betray
+
+overwhelm
+
+invariably
+
+
