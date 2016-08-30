@@ -7,15 +7,23 @@
 ##Do this either by work, or worship, or psychic control, or philosophy -- by one, or more, or all of these -- and be free.
 
 
+    divine /dɪˈvaɪn/ - coming from or connected with God or a god, wonderful; beautiful
 
-###All our knowledge is based upon experience. What we call inferential 
-###knowledge, in which we go from the less to the more general, or from the 
-###general to the particular, has experience as its basis. In what are called the 
-###exact sciences, people easily find the truth, because it appeals to the 
-###particular experiences of every human being. The scientist does not tell you 
-###to believe in anything, but he has certain results which come from his own 
-###experiences, and reasoning on them when he asks us to believe in his 
-###conclusions, he appeals to some universal experience of humanity. In every 
+
+###All our knowledge is based upon experience. What we call inferential knowledge, in which we go from the less to the more general, or from the general to the particular, has experience as its basis. 
+
+    inferential - выведенный
+
+###In what are called the exact sciences, people easily find the truth, because it appeals to the particular experiences of every human being. 
+
+    In what are called - в так называемые
+
+###The scientist does not tell you to believe in anything, but he has certain results which come from his own experiences, and reasoning on them when he asks us to believe in his conclusions, he appeals to some universal experience of humanity. 
+
+    reasoning /ˈriːzənɪŋ/ - the process of thinking about things in a logical way 
+    (рассуждения)
+
+In every 
 ###exact science there is a basis which is common to all humanity, so that we 
 ###can at once see the truth or the fallacy of the conclusions drawn therefrom. 
 ###Now, the question is: Has religion any such basis or not? I shall have to 
