@@ -52,15 +52,34 @@
 - if a word governs another word or phrase, it affects how that word or phrase is formed or used
 
 
-In the same way, I may have my own ideas, which I am asking others to believe, and if 
-they ask a reason, I cannot give them any. This is why religion and 
-###metaphysical philosophy have a bad name nowadays. Every educated man 
-###seems to say, "Oh, these religions are only bundles of theories without any 
-###standard to judge them by, each man preaching his own pet ideas." 
-###Nevertheless, there is a basis of universal belief in religion, governing all the 
-###different theories and all the varying ideas of different sects in different 
-###countries. Going to their basis we find that they also are based upon 
-###universal experiences.
+####In the same way, I may have my own ideas, which I am asking others to believe, and if they ask a reason, I cannot give them any. This is why religion and metaphysical philosophy have a bad name nowadays. Every educated man seems to say, "Oh, these religions are only bundles of theories without any standard to judge them by, each man preaching his own pet ideas." 
+
+
+####bundle /ˈbʌndl/ 
+
+    - a number of things tied or wrapped together
+    - a number of things that belong, or are sold together
+    a bundle of laughs - a person or thing that makes you laugh
+    a bundle [singular] (informal) a large amount of money
+
+Idioms
+
+    bundle of nerves - be very nervous
+    drop your bundle -  to act in a stupid way because you have lost control over yourself
+
+
+#### preach verb /priːtʃ
+
+    - to give a religious talk in a public place
+    - to give somebody advice on moral standards, behaviour, etc., especially in a way that they find annoying or boring "You're preaching at me again!"
+
+
+Idioms
+
+    practise what you preach
+    preach to the converted
+
+###Nevertheless, there is a basis of universal belief in religion, governing all the different theories and all the varying ideas of different sects in different countries. Going to their basis we find that they also are based upon universal experiences.
 
 
 
