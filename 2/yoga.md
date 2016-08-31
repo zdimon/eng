@@ -8,14 +8,14 @@
 ####follower /ˈfɑːloʊər/
 
 - a person who supports and admires a particular person or set of ideas
-*the followers of Mahatma Gandhi*
+    *the followers of Mahatma Gandhi*
 - a person who is very interested in a particular activity and follows all the recent news about it
-*keen followers of football*
-*a follower of fashion*
+    *keen followers of football*
+    *a follower of fashion*
 - a person who does things after somebody else has done them first
-*She is a leader, not a follower.*
+    *She is a leader, not a follower.*
 - a person who chooses to regularly receive somebody’s messages using a microblogging service
-*a celebrity with thousands of followers on Twitter*
+    *a celebrity with thousands of followers on Twitter*
 
 
 Yet, in all of them we find one 
