@@ -19,6 +19,16 @@ beings, a dependence which has become a part of their degenerate nature.
 The former have no such excuse._
 
 
+
+
+
+
+
+
+
+
+
+
 ##Preface
 
 ###Since the dawn of history, various extraordinary phenomena have been recorded as happening amongst human beings. 
@@ -27,11 +37,11 @@ The former have no such excuse._
 
 ####dawn  /dɔːn/ 
 
-1. The time of day when light first appears.
+1.The time of day when light first appears.
     
 - They start work at dawn.
 
-2. The beginning or first signs of something.
+2.The beginning or first signs of something.
 
 - The dawn of civilization.
 
@@ -50,23 +60,23 @@ The signature was attested by two witnesses.
 
 ####blaze /bleɪz/ 
 
-1. [intransitive] to burn brightly and strongly
+1.[intransitive] to burn brightly and strongly
 
 - He rushed back into the blazing house.
 
-2. [intransitive] to shine brightly
+2.[intransitive] to shine brightly
 
 - The sun blazed down from a clear blue sky.
 
-3. [intransitive] blaze (with something) (formal) if somebody’s eyes blaze, they look extremely angry
+3.[intransitive] blaze (with something) (formal) if somebody’s eyes blaze, they look extremely angry
 
 - Her eyes were blazing with fury.
 
-4. [transitive, usually passive] to make news or information widely known by telling people about i
+4.[transitive, usually passive] to make news or information widely known by telling people about i
 
 - The story was blazed all over the daily papers.
 
-5. noun - fire
+5.noun - fire
 
 _Idioms_
 
