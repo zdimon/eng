@@ -1,8 +1,11 @@
 ##Vocabilary
 
-An old man enters a confessional and proudly exclaims, "Father, I have to tell you what happened to me last night. I'm 90 years old, and I made love to two 18-year-old women for eight hours!"
+An old man enters a confessional and proudly exclaims, 
+"Father, I have to tell you what happened to me last night. 
 
-The stern priest replies, "That is a sin. I will have to give you a penance."
+I'm 90 years old, and I made love to two 18-year-old women for eight hours!"
+The stern priest replies, "That is a sin. 
+I will have to give you a penance."
 
 "Father, you can't give me a penance."
 
